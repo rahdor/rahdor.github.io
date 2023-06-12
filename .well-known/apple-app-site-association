@@ -1,21 +1,31 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "S8RG7R8ZTW.com.datagramlabs.sudoku",
-        "paths": ["*"]
-      }
-    ]
-  },
-  "activitycontinuation": {
-    "apps": [
-      "S8RG7R8ZTW.com.datagramlabs.sudoku"
-    ]
-  },
-  "webcredentials": {
-    "apps": [
-      "S8RG7R8ZTW.com.datagramlabs.sudoku"
-    ]
-  }
+    "applinks":
+    {
+        "apps":
+        [],
+        "details":
+        [
+            {
+                "appID": "S8RG7R8ZTW.com.datagramlabs.sudoku",
+                "paths":
+                [
+                    "*"
+                ]
+            }
+        ]
+    },
+    "activitycontinuation":
+    {
+        "apps":
+        [
+            "S8RG7R8ZTW.com.datagramlabs.sudoku"
+        ]
+    },
+    "webcredentials":
+    {
+        "apps":
+        [
+            "S8RG7R8ZTW.com.datagramlabs.sudoku"
+        ]
+    }
 }
